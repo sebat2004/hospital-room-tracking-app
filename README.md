@@ -1,0 +1,3 @@
+# Hospital Room Tracking App
+
+The goal of this project is to create an application that allows for easier communication between nurses and housekeepers. A visual display contains the status of rooms for nurses and housekeepers to see. The receptionist is able to create rooms and add patients into rooms. A timer begins whenever a housekeeper starts cleaning a room so nurses are able to know when a room will become available again.
